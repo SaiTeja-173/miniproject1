@@ -1,0 +1,25 @@
+.q{
+text-align:center;
+border:0.2rem solid;  
+background-color:#FAAFBA;
+}
+.hdr{
+font-family:Lato;
+}
+body{
+background-color:#6FB3B8;
+}
+.icon{
+border-radius: 50%;
+}
+.ff{
+top: 50%;
+bottom: 50%;
+}
+.a{
+    padding-bottom: 0;
+}
+.b{
+    padding-top:0;
+    padding-left:800px;
+}
